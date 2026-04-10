@@ -1,0 +1,5 @@
+# 朋友 Skill 创建器 - 依赖
+# 核心功能无需任何依赖，以下为可选依赖
+
+# 照片 EXIF 信息提取（photo_analyzer.py 使用）
+Pillow>=9.0.0
